@@ -7,3 +7,4 @@
 5. git checkout -- . > regresa el codigo al estado de la ultima fotografia tomada (ultimo commit).
 6. git log > Lista todos los commits hechos
 7. git commit --amend > sirve para editar el mensaje puesto en el ultimo commit
+8. git checkout -b > crea una nueva rama
