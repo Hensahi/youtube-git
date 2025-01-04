@@ -11,3 +11,5 @@
 9. git checkout main > cambia a la rama main (se puede sustituir main por el nombre de cualquier rama existente y cambiara a ella).
 10. git merge > une dos ramas
 11. git branch -d "nombre_de_la_rama" > elimina una rama
+12. git push > sube los comandos a la rama remota
+13. git commit -am "mensaje del commit" > este es un comado que une el git add . y el git commit -m en uno solo (archivo en seguimiento)
