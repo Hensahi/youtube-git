@@ -8,3 +8,5 @@
 6. git log > Lista todos los commits hechos
 7. git commit --amend > sirve para editar el mensaje puesto en el ultimo commit
 8. git checkout -b > crea una nueva rama
+9. git checkout main > cambia a la rama main (se puede sustituir main por el nombre de cualquier rama existente y cambiara a ella).
+10. git merge > une dos ramas
